@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li{
+    list-style-type: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+header nav ul li a:hover{
+    color: yellow;
+}
+
+header{
+    background-color: darkblue;
+    width: 100%;
+    height: 120px;
+}
+
+
+nav ul{
+    display: flex;
+    position: relative;
+    gap: 2rem;
+    float: right;
+    margin-top: 50px;
+    margin-right: 15px;
+}
