@@ -5,14 +5,14 @@
   "profiles": [
     {
       "id": 1,
-      "name": "Alexandre Martin",
+      "name": "LEYONO Berly",
       "title": "Développeur Full-Stack",
       "description": "Spécialiste React/Node.js avec 8 ans d'expérience dans la création d'applications web performantes et évolutives.",
       "bio": "Passionné par les technologies web depuis plus de 8 ans, j'ai eu l'opportunité de travailler sur des projets variés allant des startups aux grandes entreprises. Mon expertise couvre l'ensemble du cycle de développement, du frontend au backend, en passant par la mise en production.",
       "skills": ["React", "Node.js", "TypeScript", "MongoDB", "AWS"],
-      "location": "Paris, France",
+      "location": "Brazzaville, Congo",
       "email": "alexandre.martin@example.com",
-      "website": "https://alexandremartin.dev",
+      "website": "https://Berlyleyono.dev",
       "projects": [
         {
           "title": "Plateforme E-commerce",
@@ -28,14 +28,14 @@
     },
     {
       "id": 2,
-      "name": "Sophie Leroy",
+      "name": "LOUKOMBO Edvine",
       "title": "Designer UI/UX",
       "description": "Designer d'interface créative avec une approche centrée sur l'utilisateur et 6 ans d'expérience.",
       "bio": "Je transforme des problèmes complexes en solutions design élégantes et fonctionnelles. Mon processus de travail inclut la recherche utilisateur, le prototypage et les tests d'utilisabilité pour créer des expériences digitales mémorables.",
       "skills": ["UI Design", "UX Research", "Figma", "Prototypage", "Design System"],
-      "location": "Lyon, France",
+      "location": "Brazzaville, Congo",
       "email": "sophie.leroy@example.com",
-      "website": "https://sophieleroy.design",
+      "website": "https://Loukomboedvine.design",
       "projects": [
         {
           "title": "Redesign Application Bancaire",
@@ -51,14 +51,14 @@
     },
     {
       "id": 3,
-      "name": "Thomas Dubois",
+      "name": "OKOKO Charly",
       "title": "Développeur Frontend",
       "description": "Expert en frameworks JavaScript modernes avec une spécialisation en animations et performances web.",
       "bio": "Je me concentre sur la création d'interfaces utilisateur rapides, accessibles et esthétiquement plaisantes. J'accorde une importance particulière aux performances, à l'accessibilité et aux bonnes pratiques de développement.",
       "skills": ["JavaScript", "React", "Vue.js", "GSAP", "Webpack"],
-      "location": "Bordeaux, France",
+      "location": "Brazzaville, Congo",
       "email": "thomas.dubois@example.com",
-      "website": "https://thomasdubois.dev",
+      "website": "https://okokocharly.dev",
       "projects": [
         {
           "title": "Portfolio Animé",
@@ -74,14 +74,14 @@
     },
     {
       "id": 4,
-      "name": "Claire Bernard",
+      "name": "NDAKI Steeven",
       "title": "Développeuse Backend",
       "description": "Spécialiste en architecture backend et bases de données avec 7 ans d'expérience.",
       "bio": "Je conçois et développe des API robustes, sécurisées et évolutives. Mon expertise inclut l'optimisation des bases de données, la mise en cache et la scalabilité des applications.",
       "skills": ["Python", "Django", "PostgreSQL", "Docker", "Redis"],
-      "location": "Nantes, France",
+      "location": "Brazzaville, Congo",
       "email": "claire.bernard@example.com",
-      "website": "https://clairebernard.dev",
+      "website": "https://ndakisteeven.dev",
       "projects": [
         {
           "title": "API de Réservation",
@@ -97,14 +97,14 @@
     },
     {
       "id": 5,
-      "name": "Julien Petit",
+      "name": "IBOVI Confiance",
       "title": "Développeur WordPress",
       "description": "Expert en création de thèmes et plugins WordPress sur mesure avec 5 ans d'expérience.",
       "bio": "Je crée des sites WordPress performants, sécurisés et optimisés pour le SEO. Mes solutions sur mesure répondent aux besoins spécifiques de chaque client tout en garantissant une facilité d'administration.",
       "skills": ["WordPress", "PHP", "JavaScript", "WooCommerce", "SEO"],
-      "location": "Toulouse, France",
+      "location": "Brazzaville, Congo",
       "email": "julien.petit@example.com",
-      "website": "https://julienpetitwp.com",
+      "website": "https://confianceibovi.com",
       "projects": [
         {
           "title": "Thème WordPress Sur Mesure",
